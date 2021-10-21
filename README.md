@@ -1,16 +1,23 @@
-### Hi there 👋
+<br>
 
-<!--
-**BEDongryeol/BEDongryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Technical Stack 💻</h3>
 
-Here are some ideas to get you started:
+<p align="center">          
+<img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=yellow"/></a>&nbsp                                            <br>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp                                            
+<img src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>&nbsp                                            
+<img src="https://img.shields.io/badge/-MySQL-FECC00?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp                                            
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center">🥕 Interests 🥕</h3>
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/-Microservice-yellow?style=plastic"/>
+<img src="https://img.shields.io/badge/-FinTech-orange?style=plastic"/>
+<img src="https://img.shields.io/badge/-TDD-blue?style=plastic"/>
+<img src="https://img.shields.io/badge/-Growth-red?style=plastic"/>
+

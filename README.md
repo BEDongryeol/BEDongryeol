@@ -20,4 +20,19 @@
 <img src="https://img.shields.io/badge/-FinTech-orange?style=plastic"/>
 <img src="https://img.shields.io/badge/-TDD-blue?style=plastic"/>
 <img src="https://img.shields.io/badge/-Growth-red?style=plastic"/>
+</p>
+
+<br>
+
+<h3 align="center">Quick View ❗️</h3>
+
+<p align="center">
+  <a href="https://bedongryeol.github.io/"> 👉🏻 Inwoo Blog</a>
+  <br>
+  <br>
+  <a href="https://github.com/BEDongryeol/TIL"> 👉🏻 [TIL] Today I Learned</a>
+  <br>
+  <br>
+  <a href="https://github.com/BEDongryeol/DesignPattern"> 👉🏻 Java DesignPattern</a>
+</p>
 

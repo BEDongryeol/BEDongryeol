@@ -29,6 +29,8 @@
 <p align="center">
   <a href="https://github.com/BEDongryeol/boardProject"> 𝟏. Board Project [Spring MVC, JPA, MyBatis, JDBC, JSP] </a>
   <br>
+  <a href="https://github.com/BEDongryeol/investment/tree/feat-inwooJeong"> 𝟐. API for Investment [Spring Boot, JPA, AOP] </a>
+
   <br>
 </p>
   

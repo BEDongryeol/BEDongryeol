@@ -27,7 +27,7 @@
 <h3 align="center">Projects</h3>
 
 <p align="center">
-    <a href="https://github.com/BC-MOA/MOA-BE"> 𝟏. MOA-Project [java, Spring Boot, JPA, MySQL, H2, Docker, AWS EC2] </a>
+    <a href="https://github.com/BEDongryeol/MOA-BE"> 𝟏. MOA-Project [java, Spring Boot, JPA, MySQL, H2, Docker, AWS EC2] </a>
   <br>
   <br>  
   <a href="https://github.com/BEDongryeol/boardProject"> 𝟐. Board Project [Spring MVC, JPA, MyBatis, JDBC, JSP] </a>

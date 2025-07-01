@@ -38,7 +38,7 @@
 ➤ Developed low-latency APIs using Lua, gRPC, and AWS Private Hosted Zones  
 ➤ Conducted load testing with Gatling, optimized Tomcat & HikariCP; handled ~50 TPS  
 
-**Soomcare** — Software Engineer (May 2023 ~ )  
+**Soomcare** — Software Engineer (May 2022 ~ Nov 2022)  
 ➤ Built reactive data export system using Spring WebFlux and SXSSFWorkbook  
 ➤ Set up GitLab CI/CD pipeline with Jenkins, Docker, and AWS ECR  
 

@@ -1,4 +1,4 @@
-## 💻 Technical Stack 💻
+## Technical Stack
 
 <p>          
 <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🥕 Interests 🥕
+## Interests
 
 <p>
 <img src="https://img.shields.io/badge/-Microservice-yellow?style=plastic"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 💼 Experience 💼
+## Experience
 
 **HDC Labs** — Software Engineer (May 2023 ~ )  
 ➤ Developed low-latency APIs using Lua, gRPC, and AWS Private Hosted Zones  
@@ -44,7 +44,7 @@
 
 ---
 
-## 📚 Projects 📚
+## Projects
 
 **1. 스마트워크오더** — HDC Labs (2024.04 ~ 2024.12)  
 *백엔드 개발 및 인프라 구축*  
@@ -73,7 +73,7 @@
 
 ---
 
-## 🚀 Quick Links 🚀
+## Quick Links
 
 - 👉🏻 [Inwoo Blog](https://bedongryeol.github.io/)  
 - 👉🏻 [TIL - Today I Learned](https://github.com/BEDongryeol/TIL)  
